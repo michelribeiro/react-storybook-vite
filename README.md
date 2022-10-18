@@ -13,3 +13,6 @@
 #### Installing storybook with command line
 
 - npx sb init --builder @storybook/builder-vite --use-npm
+- clsx to create variation classes for tailwind
+- npm i --save clsx
+- [radix ui](http://radix-ui.com)
