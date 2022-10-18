@@ -16,3 +16,8 @@
 - clsx to create variation classes for tailwind
 - npm i --save clsx
 - [radix ui](http://radix-ui.com)
+
+#### Depploy Storybook
+
+- npm i @storybook/storybook-deployer --save-dev
+- show repo online gh repo view -w

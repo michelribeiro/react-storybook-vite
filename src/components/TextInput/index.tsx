@@ -12,6 +12,7 @@ interface TextInputIconProps {
 const stylesRoot =
   "flex\
   items-center\
+  h-12\
   gap-3\
   py-4\
   px-3\
