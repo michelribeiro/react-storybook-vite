@@ -1,5 +1,9 @@
 ### Boilerplate React with storybook
 
+### Published
+
+[Access the storybook page](https://michelribeiro.github.io/react-storybook-vite)
+
 #### npm install -D
 
 - tailwindcss
