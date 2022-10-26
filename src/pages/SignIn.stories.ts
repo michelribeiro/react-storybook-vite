@@ -9,19 +9,19 @@ export default {
   component: SignIn,
   args: {},
   argTypes: {},
-  parameters: {
-    msw: {
-      handlers: [
-        rest.post("/sessions", (req, res, ctx) => {
-          return res(
-            ctx.json({
-              message: "Login realizado!",
-            })
-          );
-        }),
-      ],
-    },
-  },
+  // parameters: {
+  //   msw: {
+  //     handlers: [
+  //       rest.post("/sessions", (req, res, ctx) => {
+  //         return res(
+  //           ctx.json({
+  //             message: "Login realizado!",
+  //           })
+  //         );
+  //       }),
+  //     ],
+  //   },
+  // },
 } as Meta;
 
 export const Default: StoryObj = {
