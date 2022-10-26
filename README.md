@@ -9,6 +9,7 @@
 - tailwindcss
 - postcss (bundle css)
 - autoprefixer (webkit, moss etc)
+- msw for mock api
 
 #### init tailwindcss to create tailwind config file
 
